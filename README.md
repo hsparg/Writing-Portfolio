@@ -23,5 +23,5 @@
 #### Other College Sites
 #### I've written for many other college sites, mainly about running a student organization since I was very into that at the time.
 - [The SOS Guide to Student Activism](https://github.com/hsparg/Writing-Portfolio/blob/master/The%20SOS%20Guide%20to%20Student%20Activism.pdf)
-- [3 Lessons to Learn from TV or Movies if You’re Thinking about Joining a College Club](https://github.com/hsparg/Writing-Portfolio/blob/master/Pitch%20Perfect%20-%20The%20Stages%20of%20a%20High%20Performing%20Team.pdf)
+- [3 Lessons to Learn from TV or Movies if You’re Thinking about Joining a College Club](https://github.com/hsparg/Writing-Portfolio/blob/master/3%20Lessons%20to%20Learn%20from%20TV%20or%20Movies%20if%20You%E2%80%99re%20Thinking%20about%20Joining%20a%20College%20Club.pdf)
 - [Pitch Perfect - The Stages of a High Performing Team](https://github.com/hsparg/Writing-Portfolio/blob/master/Pitch%20Perfect%20-%20The%20Stages%20of%20a%20High%20Performing%20Team.pdf)
