@@ -8,8 +8,8 @@
 
 #### Tricks of the Trade 
 #### "Tricks of the Trade" is a series I came up with at TimeForge (a time and attendance software company). Before working at TimeForge, I worked at several restaurants. While writing this series, I drew from my service industry experience and writing skills to create an advice column directed to the types of businesses that would use the TimeForge software.
-- [Tricks of the Trade - If You're Celebrating a National Food Holiday, Be Prepared for War!](https://github.com/hsparg/Writing-Portfolio/blob/master/Tricks%20of%20the%20Trade%20-%20National%20Food%20Holiday.pdf)
-- [Tricks of the Trade - Learning the Menu!](https://github.com/hsparg/Writing-Portfolio/blob/master/Tricks%20of%20the%20Trade%20-%20Learning%20the%20Menu.pdf)
+- [Tricks of the Trade - If You're Celebrating a National Food Holiday, Be Prepared for War](https://github.com/hsparg/Writing-Portfolio/blob/master/Tricks%20of%20the%20Trade%20-%20National%20Food%20Holiday.pdf)
+- [Tricks of the Trade - Learning the Menu](https://github.com/hsparg/Writing-Portfolio/blob/master/Tricks%20of%20the%20Trade%20-%20Learning%20the%20Menu.pdf)
 
 <hr>
 
